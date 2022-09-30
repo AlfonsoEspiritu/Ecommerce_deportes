@@ -1,2 +1,0 @@
-Validar formulari con Java Scrip
-https://es.stackoverflow.com/questions/112886/validar-campos-vac%C3%ADos-con-javascript
