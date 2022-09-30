@@ -1,10 +1,4 @@
-@import url(&#34;
-https://fonts.googleapis.com/css2?family=Inter:wght@200;
-300;
-400;
-500&amp;
-display=swap&#34;
-);
+@import url(&#34;https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&amp;display=swap&#34;);
  :root {
      --highlight: #5756e6;
 }
@@ -19,10 +13,7 @@ display=swap&#34;
      justify-content: center;
      align-items: center;
      height: 20vh;
-     font-family: &#34;
-    Inter&#34;
-    , sans-serif;
-}
+    }
  .navbar {
      border-radius: 32px;
      background-color: white;
