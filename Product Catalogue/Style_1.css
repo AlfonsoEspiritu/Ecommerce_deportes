@@ -1,0 +1,28 @@
+body {
+    background-image: url("Imagenes/1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;  
+}
+
+.Inicio a{
+position:absolute;
+top: 5%;
+left: 2%;
+width: 10%;
+text-decoration: none;
+display: inline-block;
+padding: 10px;
+color: #24a0be;
+border: 5px solid #24a0be;
+border-radius: 4px;
+transition:  all 400ms ease;
+}
+
+.Inicio a:hover{
+background: #24a0be;
+color: #ffffff;  
+}
